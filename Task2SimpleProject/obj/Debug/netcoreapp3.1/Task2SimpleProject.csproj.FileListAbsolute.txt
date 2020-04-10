@@ -1,0 +1,11 @@
+C:\Users\Dolapo\Desktop\C#\Task2SimpleProject\bin\Debug\netcoreapp3.1\Task2SimpleProject.exe
+C:\Users\Dolapo\Desktop\C#\Task2SimpleProject\bin\Debug\netcoreapp3.1\Task2SimpleProject.deps.json
+C:\Users\Dolapo\Desktop\C#\Task2SimpleProject\bin\Debug\netcoreapp3.1\Task2SimpleProject.runtimeconfig.json
+C:\Users\Dolapo\Desktop\C#\Task2SimpleProject\bin\Debug\netcoreapp3.1\Task2SimpleProject.runtimeconfig.dev.json
+C:\Users\Dolapo\Desktop\C#\Task2SimpleProject\bin\Debug\netcoreapp3.1\Task2SimpleProject.dll
+C:\Users\Dolapo\Desktop\C#\Task2SimpleProject\bin\Debug\netcoreapp3.1\Task2SimpleProject.pdb
+C:\Users\Dolapo\Desktop\C#\Task2SimpleProject\obj\Debug\netcoreapp3.1\Task2SimpleProject.csprojAssemblyReference.cache
+C:\Users\Dolapo\Desktop\C#\Task2SimpleProject\obj\Debug\netcoreapp3.1\Task2SimpleProject.AssemblyInfoInputs.cache
+C:\Users\Dolapo\Desktop\C#\Task2SimpleProject\obj\Debug\netcoreapp3.1\Task2SimpleProject.AssemblyInfo.cs
+C:\Users\Dolapo\Desktop\C#\Task2SimpleProject\obj\Debug\netcoreapp3.1\Task2SimpleProject.dll
+C:\Users\Dolapo\Desktop\C#\Task2SimpleProject\obj\Debug\netcoreapp3.1\Task2SimpleProject.pdb
